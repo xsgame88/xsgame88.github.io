@@ -565,7 +565,7 @@ th.visible-xs,td.visible-xs {display: table-cell !important;}
 /*# sourceMappingURL=bootstrap.css.map */
 h2{margin:36px 0 22px 0;font-weight:bold;}
 .bgh2{margin:36px 0;}
-header{background-color:#f2dbdf;padding:25px 0;color:#000;}
+header{background-color:#fcfff5;padding:25px 0;color:#000;}
 .social-wrap{margin-top:10px;}
 .social-wrap p{margin-top:5px;}
 .social-icon{margin-left:10px;}
@@ -586,7 +586,7 @@ header{background-color:#f2dbdf;padding:25px 0;color:#000;}
 .gamesWrap{background-color:#f0f0f0;border-top:1px solid #e2e2e2;}
 .footer{background-color:#fff;font-family: 'Muli', Arial;}
 .footer img{margin-top:9px;}
-.footer-copy{background-color:#f2dbdf;}
+.footer-copy{background-color:#fcfff5;}
 .footer-nav a{color:#000;padding-left:25px;text-transform:uppercase;font-size:13px;}
 .footer-nav a:hover{color:#000;text-decoration:none;}
 .footer-nav p{color:#000;font-size:13px;margin-top:20px;}
