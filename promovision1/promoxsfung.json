@@ -44,5 +44,6 @@
         }
 		
     ],
-	"showlist":"false"
+	"showlist":"false",
+	"blockmatchpuz":"true"
 }
