@@ -41,11 +41,12 @@
         },{
             "iconurl": "LoveMahjong.png",
             "url": "lovely-mahjong-3d/id6463622853"
+        },{
+            "iconurl": "FastFryChefs.png",
+            "url": "fast-fry-chefs/id6463402762"
         }
 		
     ],
 	"showlist":"false",
-	"blockmatchpuz":"false",
-	"fPisChess":"false",
 	"moempmast":"false"
 }
