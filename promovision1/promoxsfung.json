@@ -44,10 +44,13 @@
         },{
             "iconurl": "FastFryChefs.png",
             "url": "fast-fry-chefs/id6463402762"
+        },{
+            "iconurl": "mayadsd.png",
+            "url": "maya-bubble-zuma/id6468589094"
         }
 		
     ],
 	"showlist":"true",
 	"greenminer":"true",
-	"mayadsd":"false"
+	"mayadsd":"true"
 }
