@@ -47,11 +47,15 @@
         },{
             "iconurl": "mayadsd.png",
             "url": "maya-bubble-zuma/id6468589094"
+        },{
+            "iconurl": "untilten.png",
+            "url": "until-10/id6468848917"
         }
 		
     ],
 	"showlist":"true",
 	"greenminer":"true",
 	"mayadsd":"true",
-	"untilten":"true"
+	"untilten":"true",
+	"fishidle":"true"
 }
