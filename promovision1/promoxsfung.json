@@ -66,6 +66,6 @@
 	"fishidle":"true",
 	"brikbulder":"true",
 	"jiangsshoot":"true",
-	"figeconect":"false",
-	"dreamcooks":"true"
+	"figeconect":"true",
+	"dreamcooks":"false"
 }
