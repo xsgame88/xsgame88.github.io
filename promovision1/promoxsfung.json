@@ -15,6 +15,9 @@
             "iconurl": "4.png",
             "url": "table-tennis-master-3d/id1340202374"
         }, {
+            "iconurl": "archerykig.png",
+            "url": "archery-battle-3d/id6470036823"
+        }, {
             "iconurl": "EmpireMiner.png",
             "url": "empire-miner/id6462825901"
         },{
@@ -77,5 +80,5 @@
 	"jiangsshoot":"true",
 	"figeconect":"true",
 	"castvbale":"true",
-	"archerykig":"false"
+	"archerykig":"true"
 }
