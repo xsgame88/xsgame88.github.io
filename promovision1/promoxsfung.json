@@ -75,7 +75,6 @@
 	"figeconect":"true",
 	"castvbale":"true",
 	"archerykig":"true",
-	"shootkk":"false",
-	"dresscut":"false",
-	"fashiongirl":"false"
+	"shootkk":"true",
+	"dresscut":"false"
 }
