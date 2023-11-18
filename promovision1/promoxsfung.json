@@ -71,6 +71,9 @@
         },{
             "iconurl": "figeconect.png",
             "url": "figure-connect/id6469583422"
+        },{
+            "iconurl": "rubkcubed.png",
+            "url": "rubik-cube-3d/id6472387495"
         }
 		
     ],
@@ -90,5 +93,5 @@
 	"prsnbreak":"false",
 	"hsptlescp":"true",
 	"watrflw":"true",
-	"rubkcubed":"false"
+	"rubkcubed":"true"
 }
