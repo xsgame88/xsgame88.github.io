@@ -97,7 +97,7 @@
 	"dresscut":"true",
 	"shikongcy":"true",
 	"prsnbreak":"true",
-	"hsptlescp":"true",
+	"hsptlescp":"false",
 	"watrflw":"true",
 	"rubkcubed":"true",
 	"wodcubpat":"true",
