@@ -91,7 +91,7 @@
     ],
 	"showlist":"true",
 	"greenminer":"true",
-	"mayadsd":"true",
+	"mayadsd":"false",
 	"untilten":"true",
 	"fishidle":"true",
 	"brikbulder":"true",
