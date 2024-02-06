@@ -91,7 +91,7 @@
     ],
 	"showlist":"true",
 	"greenminer":"true",
-	"mayadsd":"false",
+	"mayadsd":"true",
 	"untilten":"true",
 	"fishidle":"true",
 	"brikbulder":"true",
@@ -112,5 +112,5 @@
 	"tennismtour":"true",
 	"soccerbtle":"true",
 	"findifsaga":"true",
-	"fatfychfs":"false"
+	"fatfychfs":"true"
 }
